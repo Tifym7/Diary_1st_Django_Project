@@ -1,0 +1,1 @@
+# Diary_1st_Django_Project
